@@ -1,3 +1,3 @@
 layout: page
-title: "Home"
+title: "EDIT CUSTOMERS"
 permalink: /https://qtracehelp.github.io/HelpFiles/

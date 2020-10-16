@@ -1,3 +1,3 @@
 layout: page
-title: "Home"
+title: "ORGANIZATION SETTINGS"
 permalink: /https://qtracehelp.github.io/HelpFiles/

@@ -1,3 +1,3 @@
 layout: page
-title: "Home"
+title: "EVENT SETTINGS"
 permalink: /https://qtracehelp.github.io/HelpFiles/

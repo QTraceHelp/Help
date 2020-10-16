@@ -1,3 +1,3 @@
 layout: page
-title: "Home"
+title: "INCIDENTS DASHBOARD"
 permalink: /https://qtracehelp.github.io/HelpFiles/

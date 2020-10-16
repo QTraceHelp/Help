@@ -1,3 +1,3 @@
 layout: page
-title: "Home"
+title: "INVESTIGATIONS"
 permalink: /https://qtracehelp.github.io/HelpFiles/

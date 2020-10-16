@@ -1,3 +1,3 @@
 layout: page
-title: "PRODUCTS"
+title: "PRODUCT TYPES"
 permalink: /https://qtracehelp.github.io/Products

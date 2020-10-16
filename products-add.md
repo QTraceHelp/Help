@@ -1,3 +1,3 @@
 layout: page
-title: "PAGE TITLE"
+title: "ADD PRODUCTS"
 permalink: /URL-PATH/

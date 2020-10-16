@@ -1,3 +1,3 @@
 layout: page
-title: "Home"
+title: "INFORMATION SHARING"
 permalink: /https://qtracehelp.github.io/HelpFiles/
