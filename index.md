@@ -1,4 +1,4 @@
-[Product Dashboard](https://github.com/tpalechkavsi/QTrace-Help/wiki/Product-Dashboard)
+[Product Dashboard](https://qtracehelp.github.io/Help/products-dashboard)
 
 
 [Customer Dashboard](https://qtracehelp.github.io/Help/customers-add)
