@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "PRODUCT DASHBOARD"
-permalink: /https://qtracehelp.github.io/Help/products-dashboard/
+title: PRODUCT DASHBOARD
+permalink: /products-dashboard/
 ---
 
 This is the dashboard description.
