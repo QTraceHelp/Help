@@ -6,6 +6,8 @@ permalink: /https://qtracehelp.github.io/Help/products-dashboard/
 
 This is the dashboard description.
 
+---
+
 ## Recent Products
 
 ## Product Search
@@ -22,5 +24,5 @@ This is the dashboard description.
 
 ## Add Product
 
----
+
 
