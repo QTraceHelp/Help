@@ -1,3 +1,3 @@
 layout: page
 title: "ADD CUSTOMERS"
-permalink: qtracehelp.github.io/Help/Add-Customers
+permalink: https://qtracehelp.github.io/Help/customers-add.md
