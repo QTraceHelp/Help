@@ -5,7 +5,7 @@
 
 
 
-- [Product Dashboard](#product-dashboard)
+- [Product Dashboard](https://qtracehelp.github.io/QTrace-Help/products-dashboard)
   * [Recent Products](#recent-products)
   * [Product Search](#product-search)
   * [Product Options](#product-options)
