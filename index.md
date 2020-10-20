@@ -1,3 +1,5 @@
+
+[Products]
 - [Product Dashboard](https://qtracehelp.github.io/QTrace-Help/products-dashboard)
   * [Recent Products](https://qtracehelp.github.io/QTrace-Help/products-dashboard#recent-products)
   * [Product Search](#product-search)
