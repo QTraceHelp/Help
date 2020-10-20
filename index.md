@@ -7,6 +7,9 @@
 - [Onboarding Steps](https://qtracehelp.github.io/QTrace-Help/onboarding-datarequirements)
 
 [Products](https://qtracehelp.github.io/QTrace-Help/products)
+
+This is a brief products overview.
+
 - [Product Dashboard](https://qtracehelp.github.io/QTrace-Help/products-dashboard)
   * [Recent Products](https://qtracehelp.github.io/QTrace-Help/products-dashboard#recent-products)
   * [Product Search](https://qtracehelp.github.io/QTrace-Help/products-dashboard#product-search)
