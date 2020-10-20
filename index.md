@@ -12,7 +12,7 @@
   * [Add Product](https://qtracehelp.github.io/QTrace-Help/products-dashboard#add-product)
 
 [Locations](https://qtracehelp.github.io/QTrace-Help/locations-overview)
-  * [Add Location](https://qtracehelp.github.io/QTrace-Help/locations-add)
+- [Add Location](https://qtracehelp.github.io/QTrace-Help/locations-add)
   * [Edit Location](https://qtracehelp.github.io/QTrace-Help/locations-edit)
 
 
