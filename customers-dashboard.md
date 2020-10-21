@@ -12,11 +12,11 @@ Putant nostrud id mei, pro te simul congue, prompta suscipiantur delicatissimi i
 
 ### Customer Search
 
-See [Customer Search](https://qtracehelp.github.io/QTrace-Help/customers-search) for more details.
+See [Customer Search](customers-search.md) for more details.
 
 ### Edit Customer Labels
 
-See [Customer Labels](https://qtracehelp.github.io/QTrace-Help/customers-labels) for more details.
+See [Customer Labels](customer-labels.md) for more details.
 
 ### Import Customers
 
@@ -24,4 +24,4 @@ See [Customer Labels](https://qtracehelp.github.io/QTrace-Help/customers-labels)
 
 ### Add Customer
 
-See [Add Customer](https://qtracehelp.github.io/QTrace-Help/customers-add) for more details.
+See [Add Customer](customers-add.md) for more details.

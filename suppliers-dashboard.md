@@ -12,11 +12,11 @@ Putant nostrud id mei, pro te simul congue, prompta suscipiantur delicatissimi i
 
 ### Supplier Search
 
-See [Supplier Search](https://qtracehelp.github.io/QTrace-Help/suppliers-search) for more details.
+See [Supplier Search](suppliers-search.md) for more details.
 
 ### Edit Supplier Labels
 
-See [Supplier Labels](https://qtracehelp.github.io/QTrace-Help/suppliers-labels) for more details.
+See [Supplier Labels](suppliers-labels.md) for more details.
 
 ### Import Suppliers
 
@@ -24,4 +24,4 @@ See [Supplier Labels](https://qtracehelp.github.io/QTrace-Help/suppliers-labels)
 
 ### Add Supplier
 
-See [Add Supplier](https://qtracehelp.github.io/QTrace-Help/suppliers-add) for more details.
+See [Add Supplier](suppliers-add.md) for more details.

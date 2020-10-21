@@ -12,11 +12,11 @@ Putant nostrud id mei, pro te simul congue, prompta suscipiantur delicatissimi i
 
 ### Event Search
 
-See [Session Events](https://qtracehelp.github.io/QTrace-Help/events-sessionevents) for more details.
+See [Session Events](events-sessionevents.md) for more details.
 
 ### Edit Session Events
 
-See [Customer Labels](https://qtracehelp.github.io/QTrace-Help/customers-labels) for more details.
+See [Customer Labels](customers-labels.md) for more details.
 
 ### Event Settings
 

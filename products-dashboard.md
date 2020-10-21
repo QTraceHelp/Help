@@ -12,19 +12,19 @@ Putant nostrud id mei, pro te simul congue, prompta suscipiantur delicatissimi i
 
 ### Products Search
 
-See [Products Search](https://qtracehelp.github.io/QTrace-Help/products-search) for more details.
+See [Products Search](products-search.md) for more details.
 
 ### View Product Labels
 
-See [Product Labels](https://qtracehelp.github.io/QTrace-Help/products-labels) for more details.
+See [Product Labels](products-labels.md) for more details.
 
 ### View Product Types
 
-See [Product Types](https://qtracehelp.github.io/QTrace-Help/products-types) for more details.
+See [Product Types](products-types.md) for more details.
 
 ### View Product Components
 
-See [Product Components](https://qtracehelp.github.io/QTrace-Help/products-components) for more details.
+See [Product Components](products-components.md) for more details.
 
 ### Import Products
 
@@ -32,7 +32,7 @@ See [Product Components](https://qtracehelp.github.io/QTrace-Help/products-compo
 
 ### Add Product
 
-See [Add Product](https://qtracehelp.github.io/QTrace-Help/products-add) for more details.
+See [Add Product](products-add.md) for more details.
 
 
 
