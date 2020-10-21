@@ -25,8 +25,6 @@ Description goes here.
 - [Product Types](products-types.md)
 - [Product Components](products-components.md)
 
-
-
 [Locations](locations.md)
 
 Description goes here.
