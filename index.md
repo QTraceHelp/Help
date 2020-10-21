@@ -2,7 +2,7 @@
 
 Description goes here.
 
-- [Prerequisites](overview.md)
+- [Prerequisites](overview.md#prerequisites)
 
 [Onboarding](onboarding.md)
 
@@ -55,6 +55,8 @@ Description goes here.
 
 [Logs](logs.md)
 
+Description goes here.
+
 [Events](events.md)
 
 Description goes here.
@@ -76,6 +78,9 @@ Description goes here.
 - [Recalls Dashboard](recalls-dashboard.md)
 
 [Incidents](incidents.md)
+
+Description goes here.
+
 - [Incidents Dashboard](incidents-dashboard.md)
 
 [Investigations](investigations.md)
@@ -91,6 +96,9 @@ Description goes here.
 [Roles](roles.md)
 
 Description goes here.
+
+- [Add Role](roles-add.md)
+- [Edit Role](roles-edit.md)
 
 [Plan](plan.md)
 
