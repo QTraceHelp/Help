@@ -2,15 +2,15 @@
 
 Description goes here.
 
-- [Prerequisites](overview-prerequisites.md)
+- [Prerequisites](overview.md)
 
 [Onboarding](onboarding.md)
 
 Description goes here.
 
-- [Onboarding Steps](onboarding-steps.md)
-- [Data Types](onboarding-datatypes.md)
-- [Data Requirements](onboarding-datarequirements.md)
+- [Onboarding Steps](onboarding.md)
+- [Data Types](onboarding.md)
+- [Data Requirements](onboarding.md)
 
 [Products](products.md)
 
