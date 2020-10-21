@@ -8,9 +8,9 @@ Description goes here.
 
 Description goes here.
 
-- [Onboarding Steps](onboarding.md)
-- [Data Types](onboarding.md)
-- [Data Requirements](onboarding.md)
+- [Data Requirements](onboarding.md#data-requirements)
+- [Data Types](onboarding.md#data-types)
+- [Onboarding Steps](onboarding.md#onboarding-steps)
 
 [Products](products.md)
 
