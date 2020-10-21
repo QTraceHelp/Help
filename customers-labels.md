@@ -1,1 +1,1 @@
-# Customer Lables
+# Customer Labels
