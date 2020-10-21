@@ -1,4 +1,4 @@
-[Overview](https://qtracehelp.github.io/QTrace-Help/overview)
+[Overview](overview.md)
 
 Description goes here.
 
