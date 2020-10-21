@@ -22,28 +22,17 @@ Description goes here.
 - [Edit Product](https://qtracehelp.github.io/QTrace-Help/products-edit)
 - [View Product](https://qtracehelp.github.io/QTrace-Help/products-view)
 - [Product Labels](https://qtracehelp.github.io/QTrace-Help/products-labels)
-- [Product Type](https://qtracehelp.github.io/QTrace-Help/products-types)
+- [Product Types](https://qtracehelp.github.io/QTrace-Help/products-types)
+- [Product Components](https://qtracehelp.github.io/QTrace-Help/products-components)
 
 
-
-
-
-
-
-[Product Options](https://qtracehelp.github.io/QTrace-Help/products-dashboard#product-options)
-    + [View Product Labels](https://qtracehelp.github.io/QTrace-Help/products-dashboard#view-product-labels)
-    + [View Product Types](https://qtracehelp.github.io/QTrace-Help/products-dashboard#view-product-types)
-    + [View Product Components](https://qtracehelp.github.io/QTrace-Help/products-dashboard#view-product-components)
-    + [Import Products](https://qtracehelp.github.io/QTrace-Help/products-dashboard#import-products)
-    + [Export Products](https://qtracehelp.github.io/QTrace-Help/products-dashboard#export-products)
-  * [Add Product](https://qtracehelp.github.io/QTrace-Help/products-dashboard#add-product)
 
 [Locations](https://qtracehelp.github.io/QTrace-Help/locations)
 
 Description goes here.
 
 - [Add Location](https://qtracehelp.github.io/QTrace-Help/locations-add)
-  * [Edit Location](https://qtracehelp.github.io/QTrace-Help/locations-edit)
+- [Edit Location](https://qtracehelp.github.io/QTrace-Help/locations-edit)
 
 [Suppliers](https://qtracehelp.github.io/QTrace-Help/suppliers)
 

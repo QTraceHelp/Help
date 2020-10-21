@@ -4,6 +4,16 @@ This is the dashboard description. Lorem ipsum dolor sit amet, vis ex altera par
 
 Putant nostrud id mei, pro te simul congue, prompta suscipiantur delicatissimi id has. Omnis alienum cu mea. Ut vel aeterno dolores, sed at voluptua honestatis. His mucius legimus ea, no eum quas option. Mel veri brute omittantur at, ut per nobis molestiae, vix ea veniam vocent.
 
+## Product Statistics
+
+## Recent Products
+
+## Product Options
+
+### Products Search
+
+See [Products Search](https://qtracehelp.github.io/QTrace-Help/products-search) for more details.
+
 ### View Product Labels
 
 See [Product Labels](https://qtracehelp.github.io/QTrace-Help/products-labels) for more details.
@@ -24,11 +34,7 @@ See [Product Components](https://qtracehelp.github.io/QTrace-Help/products-compo
 
 See [Add Product](https://qtracehelp.github.io/QTrace-Help/products-add) for more details.
 
-## Product Statistics
 
-## Recent Products
-
-## Product Options
 
 
 
