@@ -8,17 +8,19 @@ Putant nostrud id mei, pro te simul congue, prompta suscipiantur delicatissimi i
 
 ## Recent Events
 
-## Event Options
+## Events Options
 
-### Event Search
+### Events Search
 
-See [Session Events](events-sessionevents.md) for more details.
+See [Event Search](events-search.md) for more details.
 
 ### Edit Session Events
 
-See [Customer Labels](customers-labels.md) for more details.
+See [Session Events](events-sessionevents.md) for more details.
 
-### Event Settings
+### Events Settings
+
+See [Events Settings](events-eventssettings.md) for more details.
 
 ### Custom Fields
 
