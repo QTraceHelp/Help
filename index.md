@@ -2,17 +2,17 @@
 
 Description goes here.
 
-- [Prerequisites](https://qtracehelp.github.io/QTrace-Help/overview-prerequisites)
+- [Prerequisites](overview-prerequisites.md)
 
-[Onboarding](https://qtracehelp.github.io/QTrace-Help/onboarding)
+[Onboarding](onboarding.md)
 
 Description goes here.
 
-- [Onboarding Steps](https://qtracehelp.github.io/QTrace-Help/onboarding-steps)
-- [Data Types](https://qtracehelp.github.io/QTrace-Help/onboarding-datatypes)
-- [Data Requirements](https://qtracehelp.github.io/QTrace-Help/onboarding-datarequirements)
+- [Onboarding Steps](onboarding-steps.md)
+- [Data Types](onboarding-datatypes.md)
+- [Data Requirements](onboarding-datarequirements.md)
 
-[Products](https://qtracehelp.github.io/QTrace-Help/products)
+[Products](products.md)
 
 Description goes here.
 
