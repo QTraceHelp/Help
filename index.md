@@ -16,93 +16,93 @@ Description goes here.
 
 Description goes here.
 
-- [Product Dashboard](https://qtracehelp.github.io/QTrace-Help/products-dashboard)
-- [Product Search](https://qtracehelp.github.io/QTrace-Help/products-search)
-- [Add Product](https://qtracehelp.github.io/QTrace-Help/products-add)
-- [Edit Product](https://qtracehelp.github.io/QTrace-Help/products-edit)
-- [View Product](https://qtracehelp.github.io/QTrace-Help/products-view)
-- [Product Labels](https://qtracehelp.github.io/QTrace-Help/products-labels)
-- [Product Types](https://qtracehelp.github.io/QTrace-Help/products-types)
-- [Product Components](https://qtracehelp.github.io/QTrace-Help/products-components)
+- [Product Dashboard](products-dashboard.md)
+- [Product Search](products-search.md)
+- [Add Product](products-add.md)
+- [Edit Product](products-edit.md)
+- [View Product](products-view.md)
+- [Product Labels](products-labels.md)
+- [Product Types](products-types.md)
+- [Product Components](products-components.md)
 
 
 
-[Locations](https://qtracehelp.github.io/QTrace-Help/locations)
-
-Description goes here.
-
-- [Add Location](https://qtracehelp.github.io/QTrace-Help/locations-add)
-- [Edit Location](https://qtracehelp.github.io/QTrace-Help/locations-edit)
-
-[Suppliers](https://qtracehelp.github.io/QTrace-Help/suppliers)
+[Locations](locations.md)
 
 Description goes here.
 
-- [Suppliers Dashboard](https://qtracehelp.github.io/QTrace-Help/suppliers-dashboard)
-- [Suppliers Search](https://qtracehelp.github.io/QTrace-Help/suppliers-search)
-- [Add Supplier](https://qtracehelp.github.io/QTrace-Help/suppliers-add)
-- [Edit Supplier](https://qtracehelp.github.io/QTrace-Help/suppliers-edit)
+- [Add Location](locations-add.md)
+- [Edit Location](locations-edit.md)
 
-[Supply Chains](https://qtracehelp.github.io/QTrace-Help/supplychains)
+[Suppliers](suppliers.md)
 
 Description goes here.
 
-- [Supply Chains Dashboard](https://qtracehelp.github.io/QTrace-Help/supplychains-dashboard)
+- [Suppliers Dashboard](suppliers-dashboard.md)
+- [Suppliers Search](suppliers-search.md)
+- [Add Supplier](suppliers-add.md)
+- [Edit Supplier](suppliers-edit.md)
 
-[Information Sharing](https://qtracehelp.github.io/QTrace-Help/informationsharing)
-
-Description goes here.
-
-- [Information Sharing Dashboard](https://qtracehelp.github.io/QTrace-Help/suppliers-dashboard)
-
-[Logs](https://qtracehelp.github.io/QTrace-Help/logs)
-
-[Events](https://qtracehelp.github.io/QTrace-Help/events)
+[Supply Chains](supplychains.md)
 
 Description goes here.
 
-- [Events Dashboard](https://qtracehelp.github.io/QTrace-Help/events-dashboard)
-- [Session Events](https://qtracehelp.github.io/QTrace-Help/events-sessionevents)
-- [Events Settings](https://qtracehelp.github.io/QTrace-Help/events-eventsettings)
+- [Supply Chains Dashboard](supplychains-dashboard.md)
 
-[Trace](https://qtracehelp.github.io/QTrace-Help/trace)
+[Information Sharing](informationsharing.md)
 
 Description goes here.
 
-- [Trace Dashboard](https://qtracehelp.github.io/QTrace-Help/trace-dashboard)
+- [Information Sharing Dashboard](suppliers-dashboard.md)
 
-[Recalls](https://qtracehelp.github.io/QTrace-Help/recalls)
+[Logs](logs.md)
 
-Description goes here.
-
-- [Recalls Dashboard](https://qtracehelp.github.io/QTrace-Help/recalls-dashboard)
-
-[Incidents](https://qtracehelp.github.io/QTrace-Help/incidents)
-- [Incidents Dashboard](https://qtracehelp.github.io/QTrace-Help/incidents-dashboard)
-
-[Investigations](https://qtracehelp.github.io/QTrace-Help/investigations)
+[Events](events.md)
 
 Description goes here.
 
-- [Investigations Dashboard](https://qtracehelp.github.io/QTrace-Help/investigations-dashboard)
+- [Events Dashboard](events-dashboard.md)
+- [Session Events](events-sessionevents.md)
+- [Events Settings](events-eventsettings.md)
 
-[Users](https://qtracehelp.github.io/QTrace-Help/users)
-
-Description goes here.
-
-[Roles](https://qtracehelp.github.io/QTrace-Help/roles)
+[Trace](trace.md)
 
 Description goes here.
 
-[Plan](https://qtracehelp.github.io/QTrace-Help/plan)
+- [Trace Dashboard](trace-dashboard.md)
+
+[Recalls](recalls.md)
 
 Description goes here.
 
-[Billing](https://qtracehelp.github.io/QTrace-Help/billing)
+- [Recalls Dashboard](recalls-dashboard.md)
+
+[Incidents](incidents.md)
+- [Incidents Dashboard](incidents-dashboard.md)
+
+[Investigations](investigations.md)
 
 Description goes here.
 
-[Organization Settings](https://qtracehelp.github.io/QTrace-Help/organizationsettings)
+- [Investigations Dashboard](investigations-dashboard.md)
+
+[Users](users.md)
+
+Description goes here.
+
+[Roles](roles.md)
+
+Description goes here.
+
+[Plan](plan.md)
+
+Description goes here.
+
+[Billing](billing.md)
+
+Description goes here.
+
+[Organization Settings](organizationsettings.md)
 
 Description goes here.
 
