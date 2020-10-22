@@ -2,8 +2,6 @@
 
 Description goes here.
 
-- [Prerequisites](overview.md#prerequisites)
-
 [Onboarding](onboarding.md)
 
 Description goes here.
