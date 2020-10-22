@@ -91,8 +91,8 @@ Description goes here.
 
 [Users](users.md)
 
-- [Invite User](users-invite.md)
-- [Edit User](users-edit.md)
+- [Invite User](users.md#invite-user)
+- [Edit User](users.md#edit-user)
 
 Description goes here.
 
