@@ -2,12 +2,17 @@
 
 ### Add Role
 
-Administrators can add a brand new Role to the system and define View and Edit permissions for different parts of the application.
+Administrators can complete the following steps to add a new Custom Role to the system:
 
-See [Add Role](roles-add.md) for more details.
+1. Add a Role Name.
+
+1. Click the checkbox below the View column to grant View access for any of the listed parts of the application.
+
+1. Click the checkbox below the Edit column to grant Edit access.
+
+1. Click Save.
 
 ### Edit Role
 
 Administrators can modify the names and permissions for existing Roles.
 
-See [Edit Role](roles-edit.md) for more details.
