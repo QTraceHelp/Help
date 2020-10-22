@@ -100,8 +100,8 @@ Description goes here.
 
 Description goes here.
 
-- [Add Role](roles-add.md)
-- [Edit Role](roles-edit.md)
+- [Add Role](roles.md#add-role)
+- [Edit Role](roles.md#edit-role)
 
 [Plan](plan.md)
 

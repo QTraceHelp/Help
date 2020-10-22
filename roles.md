@@ -26,6 +26,8 @@ Administrators can complete the following steps to modify the names and permissi
 
 1. In the Edit column, add or remove checkmarks next to items in the list to change **Edit access**.
 
+1. Click **Save**.
+
 
 
 
