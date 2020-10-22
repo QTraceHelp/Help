@@ -29,8 +29,8 @@ Description goes here.
 
 Description goes here.
 
-- [Add Location](locations-add.md)
-- [Edit Location](locations-edit.md)
+- [Add Location](locations.md#add-location)
+- [Edit Location](locations.md#edit-location)
 
 [Suppliers](suppliers.md)
 

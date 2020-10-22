@@ -1,17 +1,22 @@
 # Locations
 
-Locations description/overview
 
-Users with administrator access can use this screen to:
+### Add Location
 
-### Add Locations
+Administrators can complete the following steps to add a new Location:
 
-New Locations can be added for your organization. 
+1.
 
-See [Add Locations](locations-add.md) for more details.
+1.
 
-### Edit Locations
+1.
 
-Information for existing Locations within your organization can be modified. 
+### Edit Location
 
-See [Edit Locations](locations-edit.md) for more details.
+Administrators can complete the following steps to Edit an existing Location:
+
+1.
+
+1.
+
+1.
