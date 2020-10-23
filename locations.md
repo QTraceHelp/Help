@@ -16,7 +16,7 @@ Administrators can complete the following steps to add a new Location:
 
 ## Edit Location
 
-Administrators can complete the following steps to Edit an existing Location:
+Administrators can complete the following steps to edit an existing Location:
 
 1. Click the **Edit** icon next to a Location in the list.
 

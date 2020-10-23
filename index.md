@@ -49,8 +49,6 @@ Description goes here.
 
 Description goes here.
 
-- [Information Sharing Dashboard](suppliers-dashboard.md)
-
 [Logs](logs.md)
 
 Description goes here.
