@@ -35,6 +35,8 @@ Administrators can complete the following steps to send an invitation to a new U
 
 Complete the following steps to resend an invitation to a User:
 
+>> Before resending an invitation, make sure the original email is not in the User's spam/junk folders.
+
 1. 
 
 
