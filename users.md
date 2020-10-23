@@ -4,11 +4,14 @@
 
 Administrators can complete the following steps to send an invitation to a new User:
 
+1.  Click Add User.
+
+    The New User screen will be displayed.
+
 ### Resend User Invitation
 
-Complete the following steps to resend an invitation to a User.
+Complete the following steps to resend an invitation to a User:
 
-    >Note 
 
 ### Edit User
 
