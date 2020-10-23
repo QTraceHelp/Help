@@ -44,10 +44,23 @@ Complete the following steps to resend an invitation to a User:
 
 Complete the following steps to edit details for a User:
 
+1.
+
+1.
+
+1.
+
 ### Delete User
 
 Complete the following steps to delete a User:
 
+1.
+
+1.
+
+1.
+
 ### Restore Deleted User
 
+Complete the following steps to restore a deleted User:
 
