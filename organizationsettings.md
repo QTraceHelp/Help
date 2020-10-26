@@ -38,9 +38,9 @@ Complete the following steps to edit an existing Company Prefix:
 
 Complete the following steps to add a new Custom Field:
 
-1.
+1. Click the Custom Fields tab in the navigation bar.
 
-1.
+1. Click 
 
 1.
 
