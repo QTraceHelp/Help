@@ -6,21 +6,31 @@
 
 Complete the following steps to add a new Company Prefix:
 
-1.
+1. Click the **Company Prefix** tab in the navigation bar.
 
-1.
+1. Click **Add Company Prefix**.
 
-1.
+   The Add Company Code sidebar will appear.
+
+1. Add a **Company Prefix**.
+
+1. Select a **Prefix Type**.
+
+1. Click **Save**.
 
 ### Edit Company Prefix
 
 Complete the following steps to edit an existing Company Prefix:
 
-1.
+1. Click the **Company Prefix** tab in the navigation bar.
 
-1.
+1. Click the Edit icon next to a Company Prefix in the list.
 
-1.
+    The Edit Company Code sidebar will appear.
+
+1. Update the Company Prefix and/or Prefix Type as required.
+
+1. Click **Save**.
 
 ## Custom Fields
 
