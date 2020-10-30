@@ -7,15 +7,7 @@ Based on GS1 Terminology, QTrace considers a Product to be "any item (product or
 In more basic terms, a Product is any item that is picked, manufactured, or refined for sale.
 
 
-
 Simply put, EPCIS 1.1 provides a framework that allows trading partners to know the status of a given trade item or conveyance. EPCIS events affect the status of a trade item or conveyance by changing or setting the object’s disposition (its current state, such as sold, expired, recalled, in transit, or active).
-
-
-
-
-
-
-
 
 
 In Organizations where administrators have enabled the use of GS1 codes, Products will be identified by an associated GTIN (Global Trade Item Number) code. When GS1 codes are not used, administrators can define one or more custom Product Codes to be used for Product identification. See **Enabling GTIN codes for your Organization** for more information.
