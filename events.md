@@ -6,43 +6,42 @@ Events are responsible for setting or changing the status of a Product.
 
 While the information captured at each step in a process may be different depending on the Event type, all Event information is organized based on the same four-dimensional structure (Based on the EPCIS Event standard):
 
-**What** 
-The identifiers of the object(s) or other entities that are the subject of the event
+### What
+The identifiers of the Products or other objects that are the subject of the Event.
 
-**When**
+### When
 The date, time, and local time zone in effect when an Event took place. 
 
-**Where**
+### Where
 The Location at which an Event occurred, and Location where the object(s) are expected to be following the Event.
 
-**Why**
+### Why
 Information about the business context, including: an identifier that indicates the business step taking place (e.g., shipping, receiving, etc.), an identifier that indicates the business state of the object(s) following the event (e.g., active, recalled, damaged, etc.), identifiers of the shipping and receiving parties (if the event is part of a process of transfer between parties), links to relevant business transaction documents (e.g., a purchase order, an invoice, etc.), instance- or lot-level master data, and/or other information defined via user extensions.
-
 
 QTrace supports the following Events:
 
-**Commissioning**
+-Commissioning
 An activity that involves the creation of objects (commissioning of a new object EPC), such as a new trade item lot from a harvest event or a new pallet Serial Shipping Container Code (SSCC).
 
-**Decommissioning**
+-Decommissioning
 Permanently removing objects or products from the system (removal of an object EPC).
 
-**Receiving**
+-Receiving
 Objects or products that are received at a location and added to the receiver's inventory.
 
-**Manufacturing**
+-Manufacturing
 A combination of input objects (products or ingredients) that are transformed into output objects (products).
 
-**Aggregating**
+-Aggregating
 Objects that are placed into output objects or containers such as boxes of products into pallets of product.
 
-**Disaggregating**
+-Disaggregating
 Removing products (individuals, cases, pallets) from a larger container usually following a Receiving event.
 
-**Shipping**
+-Shipping
 Picking goods and packing into containers or onto pallets and transporting.
 
-**Transporting**
+-Transporting
 Transporting products or objects from one location to another location.
 
 
