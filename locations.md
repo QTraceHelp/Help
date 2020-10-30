@@ -1,5 +1,13 @@
 # Locations
 
+The Master Facility Data XML message type is derived from the GS1 Basic Party Registration XML message type, and describes facility information in IBM Food Trust.
+
+Master Facility Data is generally uploaded by a facility representative, and consists of the following data points:
+
+Facility GLN (Global Location Number) or IBM Food Trust Facility ID
+Facility Address (physical)
+Facility Type (e.g. farm, warehouse)
+
 ## Add Location
 
 Administrators can complete the following steps to add a new Location:
