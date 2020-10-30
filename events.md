@@ -20,28 +20,28 @@ Information about the business context, including: an identifier that indicates 
 
 QTrace supports the following Events:
 
-- Commissioning
-An activity that involves the creation of objects (commissioning of a new object EPC), such as a new trade item lot from a harvest event or a new pallet Serial Shipping Container Code (SSCC).
+- **Commissioning**
+    An activity that involves the creation of objects (commissioning of a new object EPC), such as a new trade item lot from a harvest event or a new pallet Serial Shipping Container Code (SSCC).
 
-- Decommissioning
+- **Decommissioning**
 Permanently removing objects or products from the system (removal of an object EPC).
 
-- Receiving
+- **Receiving**
 Objects or products that are received at a location and added to the receiver's inventory.
 
-- Manufacturing
-A combination of input objects (products or ingredients) that are transformed into output objects (products).
+- **Manufacturing**
+    A combination of input objects (products or ingredients) that are transformed into output objects (products).
 
-- Aggregating
+- **Aggregating**
 Objects that are placed into output objects or containers such as boxes of products into pallets of product.
 
-- Disaggregating
+- **Disaggregating**
 Removing products (individuals, cases, pallets) from a larger container usually following a Receiving event.
 
-- Shipping
+- **Shipping**
 Picking goods and packing into containers or onto pallets and transporting.
 
-- Transporting
+- **Transporting**
 Transporting products or objects from one location to another location.
 
 
