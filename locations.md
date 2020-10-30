@@ -35,3 +35,11 @@ Administrators can complete the following steps to edit an existing Location:
 
 1. Click **Save**.
 
+## Add Supplier Location
+
+## Edit Supplier Location
+
+## Add Customer Location
+
+## Edit Customer Location
+

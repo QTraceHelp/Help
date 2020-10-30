@@ -12,6 +12,10 @@ Master Item Data is class-level master data corresponding to a GTIN (Global Trad
 
 The Electronic Product Code™ (EPC) is syntax for unique identifiers assigned to physical objects, unit loads, locations, or other identifiable entity playing a role in business operations.
 
+Own vs Supplier Products
+
+Product Components
+
 
 
 
