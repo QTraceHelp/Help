@@ -6,7 +6,9 @@ Based on GS1 Terminology, QTrace considers a Product to be "any item (product or
 
 In more basic terms, a Product is any item that is picked, manufactured, or refined for sale.
 
- and is used for registering trade items (products)
+
+
+Simply put, EPCIS 1.1 provides a framework that allows trading partners to know the status of a given trade item or conveyance. EPCIS events affect the status of a trade item or conveyance by changing or setting the object’s disposition (its current state, such as sold, expired, recalled, in transit, or active).
 
 
 
