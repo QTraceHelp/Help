@@ -10,10 +10,10 @@ While the information captured at each step in a process may be different depend
 The identifiers of the object(s) or other entities that are the subject of the event
 
 **When**
-The date and time when the event took place, and the local time zone in effect
+The date, time, and local time zone in effect when an Event took place. 
 
 **Where**
-The identifier of the location at which the event occurred, and identifier of the location where the object(s) are expected to be following the event
+The Location at which an Event occurred, and Location where the object(s) are expected to be following the Event.
 
 **Why**
 Information about the business context, including: an identifier that indicates the business step taking place (e.g., shipping, receiving, etc.), an identifier that indicates the business state of the object(s) following the event (e.g., active, recalled, damaged, etc.), identifiers of the shipping and receiving parties (if the event is part of a process of transfer between parties), links to relevant business transaction documents (e.g., a purchase order, an invoice, etc.), instance- or lot-level master data, and/or other information defined via user extensions.
@@ -22,28 +22,28 @@ Information about the business context, including: an identifier that indicates 
 QTrace supports the following Events:
 
 **Commissioning**
-Commission Event Data describe the creation of objects (commissioning of a new object EPC), such as a new trade item lot from a harvest event, or a new pallet Serial Shipping Container Code (SSCC).
+An activity that involves the creation of objects (commissioning of a new object EPC), such as a new trade item lot from a harvest event or a new pallet Serial Shipping Container Code (SSCC).
 
 **Decommissioning**
-Decommission Event Data describe the deletion of trade items (removal of an object EPC).
+Permanently removing objects or products from the system (removal of an object EPC).
 
 **Receiving**
-Observation Event Data describe trade item observations, such as a product scan at a retailer.
+Objects or products that are received at a location and added to the receiver's inventory.
 
 **Manufacturing**
-Transformation Event Data describe an irreversible combination of input objects into output objects, such as the creation of chicken breasts from live chicken.
+A combination of input objects (products or ingredients) that are transformed into output objects (products).
 
 **Aggregating**
-Aggregation Event Data describe a reversible aggregation of input objects into output objects, such as boxes of produce into pallets of produce. Outbound shipping from a supplier to a retailer distribution center is mandated to be an aggregation event.
+Objects that are placed into output objects or containers such as boxes of products into pallets of product.
 
 **Disaggregating**
-Disaggregation Event Data describe a disaggregation of objects from a reversible aggregation, such as pallets of produce into boxes of produce.
+Removing products (individuals, cases, pallets) from a larger container usually following a Receiving event.
 
 **Shipping**
-Disaggregation Event Data describe a disaggregation of objects from a reversible aggregation, such as pallets of produce into boxes of produce.
+Picking goods and packing into containers or onto pallets and transporting.
 
 **Transporting**
-Disaggregation Event Data describe a disaggregation of objects from a reversible aggregation, such as pallets of produce into boxes of produce.
+Transporting products or objects from one location to another location.
 
 
 Any Events that are not used within an Organization can be disabled by an Administrator to provide a more streamlined experience for Users.  If business processes happen to change, these Events can be reenabled at any time.
