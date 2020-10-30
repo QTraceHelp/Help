@@ -1,8 +1,8 @@
 # Locations
 
-A Location represents information for a specific facility that has been registered in QTrace.  
+A Location is a specific facility belonging to an organization that has been registered in QTrace.  Although the Locations page is used to add and maintain Locations for your organization, Locations for Suppliers and Customers can also be added in their respective sections of the application.
 
-Location information for an Organization is generally added and maintained by an Administrator, and consists of the following key data points:
+Location information for all organization types are generally added and maintained by an Administrator, and consists of the following key data points:
 
 Location GLN (Global Location Number) 
 Location Address (physical)
