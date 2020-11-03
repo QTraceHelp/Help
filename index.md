@@ -87,9 +87,8 @@ Description goes here.
 
 [Users](users.md)
 - [User Administration](users-administration.md)
-
-- [Invite User](users-administration.md#invite-user)
-- [Edit User](users-administration.md#edit-user)
+    - [Invite User](users-administration.md#invite-user)
+    - [Edit User](users-administration.md#edit-user)
 
 Description goes here.
 
