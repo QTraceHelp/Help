@@ -2,7 +2,9 @@
 
 The foundation of QTrace is built around the maintainence, tracking, and tracing of Product information.
 
->**Product**: Any item (product or service) upon which there is a need to retrieve pre-defined information and that may be priced, or ordered, or invoiced at any point in any supply chain.
+>**Product**: 
+https://gs1.org/voc/Product
+Any item (product or service) upon which there is a need to retrieve pre-defined information and that may be priced, or ordered, or invoiced at any point in any supply chain.
 
 
 
