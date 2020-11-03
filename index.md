@@ -86,9 +86,10 @@ Description goes here.
 - [Investigations Dashboard](investigations-dashboard.md)
 
 [Users](users.md)
+- [User Administration](users-administration.md)
 
-- [Invite User](users.md#invite-user)
-- [Edit User](users.md#edit-user)
+- [Invite User](users-administration.md#invite-user)
+- [Edit User](users-administration.md#edit-user)
 
 Description goes here.
 
