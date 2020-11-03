@@ -8,6 +8,11 @@ Location GLN (Global Location Number)
 Location Address (physical)
 Location Type (e.g. farm, warehouse)
 
+The GLN is the GS1 Identification Key used for any location (physical, operational or legal) that needs to be identified for use in the supply chain.
+
+The GLN is a globally unique number that can be used to access master data about a location.
+
+All organisations exchange information in their business processes, externally and internally. The Global Location Number (GLN) makes possible the unique and unambiguous identification of physical locations, operational locations and legal entities. 
 
 ## Add Location
 
