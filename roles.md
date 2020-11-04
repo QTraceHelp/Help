@@ -1,5 +1,8 @@
 # Roles
 
+Roles in QTrace are used to define what users have access to specific features in the system.  By default, each new organization begins with an Admin role which has access to everything within the system.  Users with access to the Admin role can then create additional, more restricted Roles that can be assigned to new users to control their access to different parts of the application.
+
+
 ### Add Role
 
 Administrators can complete the following steps to add a new Custom Role to the system:
