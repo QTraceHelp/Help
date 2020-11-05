@@ -1,6 +1,6 @@
 # Suppliers
 
-A Supplier is a type of organization that provides Products products to your organization.
+A Supplier is a type of organization that provides Products to your organization.
 
 (GS1: An organization that provides goods or services.)
 
