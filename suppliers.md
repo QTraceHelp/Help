@@ -12,5 +12,4 @@ At a minimum, food product Suppliers register, upload, and share the following i
 
 3. **Lot or Batch Identifier**
 
-4. **Events**
 
