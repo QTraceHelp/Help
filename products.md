@@ -18,7 +18,7 @@ The Electronic Product Code™ (EPC) is syntax for unique identifiers assigned t
 
 
 
-Product Components
+Components
 
 
 
