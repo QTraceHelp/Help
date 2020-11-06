@@ -16,8 +16,6 @@ In Organizations where administrators have enabled the use of GS1 codes, Product
 
 In addition to adding Products for your own organization, Product information for both Suppliers and Customers can be added in cases where this has not yet been added to the system.
 
-
-
 EPCs
 
 The Electronic Product Code™ (EPC) is syntax for unique identifiers assigned to physical objects, unit loads, locations, or other identifiable entity playing a role in business operations.

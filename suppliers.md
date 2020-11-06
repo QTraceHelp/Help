@@ -14,4 +14,4 @@ At a minimum, the following Supplier information is uploaded to QTrace:
 
 4. **Events**
 
-The information for a Supplier can be added by an authorized User in your organization, or, in cases where the Supplier has also registered for QTrace, they are able to upload and maintain their own Products.
+The Products for a Supplier can be added by an authorized User in your organization, or, in cases where the Supplier has also registered for QTrace, they are able to upload and maintain their own Products. When an Event related to a supplier is added to a Session Event in QTrace.
