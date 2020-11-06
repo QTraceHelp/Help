@@ -4,11 +4,7 @@ A Supplier is a type of organization that provides Products to your organization
 
 (GS1: An organization that provides goods or services.)
 
-At a minimum, food product Suppliers register, upload, and share the following information in QTrace:
-
-
-
-
+At a minimum, the following Supplier information is uploaded to QTrace:
 
 1. **Unique Product Identifiers**
 
@@ -16,4 +12,6 @@ At a minimum, food product Suppliers register, upload, and share the following i
 
 3. **Lot or Batch Identifier**
 
+4. **Events**
 
+The information for a Supplier can be added by an authorized User in your organization, or, in cases where the Supplier has also registered for QTrace, they are able to upload and maintain their own Products.
