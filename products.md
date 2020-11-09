@@ -1,6 +1,6 @@
 # Products
 
-The foundation of QTrace is built around the maintainence, tracking, and tracing of Product information.
+The foundation of QTrace is built around the tracking and tracing of Product information.
 
 Based on GS1 Standards (https://gs1.org/voc/Product) a Product is defined as any item upon which there is a need to retrieve pre-defined information and that may be priced, or ordered, or invoiced at any point in any supply chain.
 
@@ -22,7 +22,7 @@ In Organizations where administrators have enabled the use of GS1 codes, Product
 
 ## Product Components
 
-(See **Edit Product** for more details.)
+(See **Product Components** for more details.)
 
 ## EPCs
 

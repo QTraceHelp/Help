@@ -44,4 +44,4 @@ Picking goods and packing into containers or onto pallets and transporting.
 - **Transporting**
 Transporting products or objects from one location to another location.
 
-Any Events that are not used within an Organization can be disabled by an Administrator to provide a more streamlined experience for Users.  If business processes happen to change, these Events can be reenabled at any time.
+Any Events that are not used within an organization can be disabled by an Administrator to provide a more streamlined experience for Users. These Events can be reenabled at any time. In addition, custom names can also be entered for Events to keep labels in line with your organization's business process terminology.
