@@ -10,7 +10,7 @@ QTrace divides information for Products into two categories:
 
 - **Products that belong to your organization** 
 
-    Users with permission are able to add and upload detailed information for the products that belong to your organization.
+    Users with permission are able to add detailed information for their own organization's products.
 
 - **Supplier Products** 
 
@@ -31,6 +31,7 @@ The Electronic Product Code™ (EPC) is syntax for unique identifiers assigned t
 
 Traceability, is defined as the ability to systematically identify a unit of production, track its location and describe any treatments or transformations at all stages of production, processing and distribution.
 
+Product information is manually added or uploaded to QTrace, 
 
 
 
