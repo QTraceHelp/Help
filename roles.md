@@ -6,8 +6,6 @@ More than one Role can be assigned to each User.
 
 Roles can be added or removed at any time.
 
-
-
 When creating a new Custom Role, View and Edit permissions are organized into several different categories:
 
 - Organization
