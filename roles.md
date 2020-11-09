@@ -16,13 +16,6 @@ When creating a new Custom Role, View and Edit permissions are organized into se
 - Quality Control
 - Admin
 
-
-
-
-
-
-
-
 ### Add Custom Role
 
 Administrators can complete the following steps to add a new Custom Role to the system:
