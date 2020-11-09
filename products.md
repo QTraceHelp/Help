@@ -25,11 +25,7 @@ EPCs
 The Electronic Product Code™ (EPC) is syntax for unique identifiers assigned to physical objects, unit loads, locations, or other identifiable entity playing a role in business operations. (See **Events** for more details.)
 
 
-Traceability, is defined as the ability to
-systematically identify a unit of production,
-track its location and describe any treatments
-or transformations at all stages of production,
-processing and distribution
+Traceability, is defined as the ability to systematically identify a unit of production, track its location and describe any treatments or transformations at all stages of production, processing and distribution.
 
 
 
