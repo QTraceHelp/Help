@@ -28,12 +28,13 @@ In Organizations where administrators have enabled the use of GS1 codes, Product
 
 The Electronic Product Code™ (EPC) is syntax for unique identifiers assigned to physical objects, unit loads, locations, or other identifiable entity playing a role in business operations. (See **Events** for more details.)
 
+The Electronic Product Code is a universal identifier for any physical object. It is used in information
+systems that need to track or otherwise refer to physical objects.
+
 
 Traceability, is defined as the ability to systematically identify a unit of production, track its location and describe any treatments or transformations at all stages of production, processing and distribution.
 
-Product information is manually added or uploaded to QTrace, 
-
-
+Product details are manually added or uploaded to QTrace, then items like location, quantity, and generation of EPCs are tracked as Events are recorded in the system.
 
 
 
