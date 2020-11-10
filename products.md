@@ -24,6 +24,8 @@ In Organizations where administrators have enabled the use of GS1 codes, Product
 
 (See **Product Components** for more details.)
 
+
+
 ## EPCs
 
 The Electronic Product Code™ (EPC) is syntax for unique identifiers assigned to physical objects, unit loads, locations, or other identifiable entity playing a role in business operations. (See **Events** for more details.)
@@ -31,6 +33,12 @@ The Electronic Product Code™ (EPC) is syntax for unique identifiers assigned t
 The Electronic Product Code is a universal identifier for any physical object. It is used in information
 systems that need to track or otherwise refer to physical objects.
 
+The Electronic Product Code is designed to facilitate business processes and applications that need
+to manipulate visibility data – data about observations of physical objects. The EPC is a universal
+identifier that provides a unique identity for any physical object. The EPC is designed to be unique
+across all physical objects in the world, over all time, and across all categories of physical objects. It
+is expressly intended for use by business applications that need to track all categories of physical
+objects, whatever they may be.
 
 Traceability, is defined as the ability to systematically identify a unit of production, track its location and describe any treatments or transformations at all stages of production, processing and distribution.
 
