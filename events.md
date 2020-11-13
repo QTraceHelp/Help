@@ -2,6 +2,8 @@
 
 An Event represents a single step in an Organization's business process for a Product that has been registered in QTrace.  By stringing together a series of Events within a QTrace Session Event, Users are able to define, review, and modify a detailed visual representation of business processes for each Product over time and place.
 
+An event session is used to capture information related to one or more business processes that involve the creation, movement, or consumption of products over a range of time.
+
 Events are responsible for setting or changing the status of a Product.
 
 While the information captured at each step in a process may be different depending on the Event type, all Event information is organized based on the same four-dimensional structure (Based on the EPCIS Event standard):
@@ -46,4 +48,3 @@ Transporting products or objects from one location to another location.
 
 Any Events that are not used within an organization can be disabled by an Administrator to provide a more streamlined experience for Users. These Events can be reenabled at any time. In addition, custom names can also be entered for Events to keep labels in line with your organization's business process terminology.
 
-An event session is used to capture information related to one or more business processes that involve the creation, movement, or consumption of products over a range of time.
