@@ -18,7 +18,7 @@ The Location at which an Event occurred, and Location where the object(s) are ex
 ### Why
 Information about the business context, including: an identifier that indicates the business step taking place (e.g., shipping, receiving, etc.), an identifier that indicates the business state of the object(s) following the event (e.g., active, recalled, damaged, etc.), identifiers of the shipping and receiving parties (if the event is part of a process of transfer between parties), links to relevant business transaction documents (e.g., a purchase order, an invoice, etc.), instance- or lot-level master data, and/or other information defined via user extensions.
 
-QTrace supports the following Events:
+The following Event Types are supported in QTrace:
 
 - **Commissioning**
     An activity that involves the creation of objects (commissioning of a new object EPC), such as a new trade item lot from a harvest event or a new pallet Serial Shipping Container Code (SSCC).
@@ -45,3 +45,5 @@ Picking goods and packing into containers or onto pallets and transporting.
 Transporting products or objects from one location to another location.
 
 Any Events that are not used within an organization can be disabled by an Administrator to provide a more streamlined experience for Users. These Events can be reenabled at any time. In addition, custom names can also be entered for Events to keep labels in line with your organization's business process terminology.
+
+An event session is used to capture information related to one or more business processes that involve the creation, movement, or consumption of products over a range of time.
