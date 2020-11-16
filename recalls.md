@@ -7,3 +7,10 @@ Initiate a recall or stock withdrawal across all your locations simultaneously. 
 Launch a targeted stock withdrawal or recall on specific products or locations impacted in your supply chain
 
 Once you’ve initiated a recall, track your progress with our live dashboard data. Deliver the most up-to-date information to every stakeholder throughout the process, including exporting your data post-recall for analysis. Drill down to the location and product-level data, and identify areas of improvement to reduce your recall risk.
+
+Creating a withdrawal allows you to quickly and easily communicate across your supply chain and request actions to be taken by your locations.  To initiate a withdrawal some basic information is required.  When creating a withdrawal, there are 4 basic data components to keep in mind:
+
+Withdrawal details
+Impacted products
+Impacted locations
+Communication details
